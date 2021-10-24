@@ -1,2 +1,2 @@
-# FDC-RF
-A Fully-Distributed Random Forest approach for biomedical data analysis
+# FDC
+A Fully-Distributed Collaborations for biomedical data analysis
