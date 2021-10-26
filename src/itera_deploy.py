@@ -24,7 +24,7 @@ InvokeSC = """
             cd ~/Remote_FDC_RF/
             python3 siteControl.py %s"""
 
-commFiles = ["aggregator.py","FDC_RF.py","main_FDC.py","utils.py","bestParams.py"]
+commFiles = ["aggregator.py","FDC_RF.py","main_FDC.py","utils.py",]
 mainCFiles = ["initialize.py","mainControl.py","mainc.ini","site.ini","data"]
 siteCFiles = ["siteControl.py"]
 centralFiles = ["central"]
